@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About Me  
-Welcome! I am a junior at Texas A&M University studying mechanical engineering with a deep passion for robotics, multi-agent systems, and their applications in real-world problem-solving. My academic and professional journey has been shaped by a drive to innovate in the fields of swarm intelligence, autonomous systems, and disaster response technology.  
+Welcome! I am a junior at Texas A&M University studying Robotics and Controls Engineering with a deep passion for multi-agent  robotic systems, and their development. 
 
 ### Research Interests  
 🔬 My research focuses on advancing the capabilities of multi-agent systems, particularly in robotics. I'm passionate about the development of swarm robotics for applications such as wildfire monitoring, disaster response, and exploration. These systems require intricate coordination and control algorithms to solve complex, real-time problems in dynamic environments.  
@@ -21,10 +21,6 @@ As the Project Lead & Founder, I’m leading a team to design a fleet of drones 
 
 🌍 **Mars Rover Simulation (MEEN 357)**  
 For my engineering course, I am building and analyzing a rover simulation that models forces acting on a Mars rover, integrating telemetry data to track its velocity, position, and power consumption. This project is helping me develop skills in simulation software, data analysis, and modeling, while also deepening my understanding of planetary exploration.  
-
-### Previous Experience  
-🛠️ **Philmont Staff Association**  
-During my time at Philmont Scout Ranch, I had the opportunity to work in various engineering and leadership roles, which strengthened my problem-solving skills and ability to work under pressure. I applied my technical skills to create solutions in high-stakes environments and led teams through complex logistical challenges.  
 
 ### Future Goals  
 🚀 Looking ahead, I am excited to expand my expertise in robotics and multi-agent systems to address a variety of pressing global challenges. My goal is to continue working on innovative projects that push the boundaries of autonomous systems, including applications in search-and-rescue operations, sustainable environmental monitoring, and extraterrestrial exploration.  
