@@ -1,6 +1,6 @@
 ---
 title: "Rover EDL Optimization"
-excerpt: "Solved an Entry, Descent, and Landing (EDL) system optimization problem .<br/>"
+excerpt: "Solved an Entry, Descent, and Landing (EDL) system optimization problem.<br/>"
 collection: portfolio
 ---
 
