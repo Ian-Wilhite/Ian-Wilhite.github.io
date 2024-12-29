@@ -24,10 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Ian Wilhite"
   pronouns         : "he/him"  
-  bio              : |
-    Junior at Texas A&M Univ.
-    Passionate about Robotics 
-    and Swarm Intelligence.
+  bio              : &bio "Junior at Texas A&M "
+  bio              : &bio "passionate about robotics"
+  bio              : &bio "and swarm intelligence."
   location         : "DFW, TX"
   uri              : # URL
   email            : "ian.wilhite0@gmail.com" 
