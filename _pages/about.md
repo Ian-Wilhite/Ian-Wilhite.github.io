@@ -32,3 +32,34 @@ During my time at Philmont Scout Ranch, I had the opportunity to work in various
 🌐 In the future, I aim to contribute to the development of robotics technologies that can operate autonomously in harsh environments, making a meaningful impact on industries such as disaster relief, environmental conservation, and space exploration.  
 
 If you're interested in collaborating or discussing robotics and multi-agent systems, feel free to connect with me!
+
+
+
+<!-- 
+
+## About Me  
+I’m a junior at Texas A&M University studying mechanical engineering with a focus on robotics and multi-agent systems. My work explores autonomous systems, swarm intelligence, and their real-world applications in disaster response and exploration.
+
+### Research Interests  
+🔬 My research focuses on multi-agent robotic systems, emphasizing coordination and control algorithms for applications like wildfire monitoring, search-and-rescue, and planetary exploration.  
+
+📚 Currently, I’m developing drone swarms for wildfire hotspot detection and Mars rover simulations to optimize terrain navigation.
+
+### Ongoing Projects  
+🚁 **Disaster Response Observation Network (D.R.O.N.)**  
+Project Lead & Founder, managing a drone fleet for first responder assistance, overseeing system design, timelines, and mentoring team members.  
+
+🌍 **Mars Rover Simulation (MEEN 357)**  
+Developing a rover simulation to analyze forces, mobility, and energy use during planetary exploration, integrating telemetry data for detailed analysis.
+
+### Previous Experience  
+🛠️ **Philmont Staff Association**  
+Led engineering solutions in high-pressure environments, developing problem-solving skills and teamwork under challenging conditions.
+
+### Future Goals  
+🚀 I aim to advance autonomous systems for real-world impact, particularly in environmental monitoring, disaster relief, and space exploration.
+
+🌐 My goal is to develop robotics technologies that autonomously operate in harsh environments, improving industries like rescue operations and space exploration.
+
+Feel free to reach out to connect or discuss robotics and multi-agent systems!
+ -->
