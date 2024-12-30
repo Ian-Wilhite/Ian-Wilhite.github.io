@@ -73,7 +73,7 @@ Activities
 Skills
 ======
 * **Programming & Operating Systems:** C++, Java, MATLAB, Python, R, Bash, LaTeX, Windows, Linux/Unix  
-* **Computer Aided Design (CAD):** SolidWorks (Parametric Modeling, Finite Element Analysis, Topology Optimization), Fusion 360  
+* **Computer Aided Design (CAD):** SolidWorks (Parametric Modeling, Finite Element Analysis, Topology Optimization), Fusion 360
 * **Libraries and Development Tools:** Git & GitHub, ROS2, OpenCV (Computer Vision), Pandas, NumPy, Visual Studio Code (VS Code)  
 * **UAV Swarm Technologies:** SLAM, VIO, ROS, MAVLink, Pixhawk (PX4), ArduPilot, Optimization Algorithms, Particle Swarm Optimization (PSO)  
 * **Controls:** Microcontrollers, Model Predictive Control (MPC), PWM motor control, PID controller tuning
