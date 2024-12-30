@@ -14,9 +14,10 @@ Education
 * **Texas A&M University, College Station, Texas**  
   BSc in Robotics and Controls Engineering (May 2026)  
   <!-- *GPA:* 3.24/4.00   -->
-  *Minors:* Control of Mechanical Systems, Computer Science  <!-- and math :sad: -->
-  *Relevant Coursework:* Object Oriented Program Design, Numerical Methods, Solid Mechanics, Mechanical Design, Fundamentals of Electric Circuit Analysis, Linear Algebra, 
-  *Certificates:* 
+  ***Minors:*** Control of Mechanical Systems, Computer Science  <!-- and math :sad: -->
+  ***Relevant Coursework:*** Object Oriented Program Design, Numerical Methods, Solid Mechanics, Mechanical Design, Fundamentals of Electric Circuit Analysis, Linear Algebra
+
+* **Certificates:** 
    * [Certified SolidWorks Associate (CSWA)](https://www.linkedin.com/in/ian-wilhite/details/certifications/1731692661513/single-media-viewer/)
    * [UAV Pilot – Recreational](www.linkedin.com/in/ian-wilhite/details/certifications/1713974513765/single-media-viewer/)
    * [FCC Ham Radio Operator (General)](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3703657)
