@@ -5,15 +5,15 @@ collection: portfolio
 ---
 
 **Date:** Nov. 2024
-**Summary:** Competing in the Aero-Mechanical Track of the Student's Engineering Council's (SECs') 2024 IGNITE Challenge, where our team developed an initial design for a rocket landing system. The judges commended our analysis, stating it went "above and beyond," with a final score of 295/300.  
+**Summary:** The DRON Project is a tool designed to aid first responders in their response to structural fires by collecting and providing key data on the hotspots within the structure. The goal of the project is to create a swarm of drones equipped with lidar and infared cameras, capable of autonomously navigating a complex environment and reporting on the active development of the fire.
 
-**Team Members:** Julia Sopala, Eduardo Burciaga-Ichikawa, and Kalen Cole Jaroszewski  
-**GitHub Repo:** [Link to Repository](https://github.com/Ian-Wilhite/Ignite24)  
+<!-- **Team Members:** Julia Sopala, Eduardo Burciaga-Ichikawa, and Kalen Cole Jaroszewski   -->
+**GitHub Repo:** [Link to Repository](https://github.com/turtle-robotics/DRON)  
 <!-- **Supporting Images:**   
 
 Leading a team of 16 engineers to implement a UAV swarm aiding emergency responders in structural fire analysis.
 Developing RF Controls for UAV scalability and coordinated swarm behavior.
+ -->
 
--->
 <!-- <img src="/images/ignite_competition.png" alt="IGNITE Competition" style="max-width: 100%;"> -->
 
