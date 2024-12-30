@@ -1,6 +1,6 @@
 ---
-title: "IGNITE"
-excerpt: "Competed in the Aero-Mechanical Track of the SEC's 2024 IGNITE Challenge with a rocket landing system design, earning near-perfect scores.<br/>"
+title: "DRON"
+excerpt: "Disaster Response Observation Network (DRON) is an ongoing project implementing a UAV swarm to aide emergency responders in structural fire analysis.<br/>"
 collection: portfolio
 ---
 
@@ -9,5 +9,11 @@ collection: portfolio
 
 **Team Members:** Julia Sopala, Eduardo Burciaga-Ichikawa, and Kalen Cole Jaroszewski  
 **GitHub Repo:** [Link to Repository](https://github.com/Ian-Wilhite/Ignite24)  
-<!-- **Supporting Images:**   -->
+<!-- **Supporting Images:**   
+
+Leading a team of 16 engineers to implement a UAV swarm aiding emergency responders in structural fire analysis.
+Developing RF Controls for UAV scalability and coordinated swarm behavior.
+
+-->
 <!-- <img src="/images/ignite_competition.png" alt="IGNITE Competition" style="max-width: 100%;"> -->
+

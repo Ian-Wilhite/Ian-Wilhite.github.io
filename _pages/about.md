@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a junior at Texas A&M University studying Robotics and Controls Engineering with a passion for multi-agent robotic systems.
+Welcome! I am a junior at Texas A&M University studying Robotics and Controls Engineering with a passion for multi-agent robotic systems. I 
+
+
+Seeking a controls-focused research internship to contribute to advancements in autonomous systems. With a strong foundation in Test Engineering, Aerial Autonomy, and Project Management, I aim to develop innovative solutions that drive meaningful impact. 
+
 
 ### Research Interests  
 

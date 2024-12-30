@@ -4,7 +4,7 @@ excerpt: "Designed a modular marble maze game, winning Best Prototype at the MEE
 collection: portfolio
 ---
 
-**Date:** Nov. 2024
+**Date:** Fall 2024
 **Summary:** As part of MEEN 210, our team conceptualized and prototyped a modular game for the elderly. Our design won the "Best Prototype Award" among 18 competing teams during the Project Showcase.  
 
 **Team Members:** McKenzie McCain, Astrid Garcia, and Ryan Welty  
