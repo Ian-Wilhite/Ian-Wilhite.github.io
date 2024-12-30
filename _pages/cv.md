@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Texas A&M University, College Station, Texas**  
-  B.S. in Robotics and Controls Engineering (May 2026)  
+  BSc in Robotics and Controls Engineering (May 2026)  
   <!-- *GPA:* 3.24/4.00   -->
   *Minors:* Control of Mechanical Systems, Computer Science  
   *Certificates:* Certified SolidWorks Associate (CSWA), Licensed UAV Pilot – Recreational, Licensed Ham Radio Operator  
@@ -56,7 +56,7 @@ Skills
 * **Computer Aided Design (CAD):** SolidWorks (Parametric Modeling, Finite Element Analysis, Topology Optimization), Fusion 360  
 * **Libraries and Development Tools:** Git & GitHub, ROS2, OpenCV (Computer Vision), Pandas, NumPy, Visual Studio Code (VS Code)  
 * **UAV Swarm Technologies:** SLAM, VIO, ROS, MAVLink, Pixhawk (PX4), ArduPilot, Optimization Algorithms, Particle Swarm Optimization (PSO)  
-* **Controls:** PID Controllers, Model Predictive Control (MPC)  
+* **Controls:** Microcontrollers, Model Predictive Control (MPC), PWM motor control, PID controller tuning
 
 Awards
 ======

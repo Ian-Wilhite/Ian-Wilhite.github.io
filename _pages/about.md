@@ -10,9 +10,9 @@ redirect_from:
 Welcome! I am a junior at Texas A&M University studying Robotics and Controls Engineering with a passion for multi-agent robotic systems.
 
 ### Research Interests  
-🔬 My research focuses on advancing the capabilities of multi-agent systems, particularly in robotics. I'm passionate about the development of swarm robotics for applications such as wildfire monitoring, disaster response, and exploration. These systems require intricate coordination and control algorithms to solve complex, real-time problems in dynamic environments.  
 
-📚 Currently, I am working on projects involving drone swarms designed for wildfire hotspot identification and Mars rover simulations aimed at optimizing mobility on challenging terrain. These projects are giving me valuable experience in the practical challenges of autonomous systems in both terrestrial and extraterrestrial contexts.
+ - **Swarm Control of UAVs:** Developing exploration and mapping algorithms to enable multi-agent collaboration in GPS/GNSS-Denied settings.
+ - **Controls of Vertical Takeoff & Landing (VTOL) Systems:** Investigating and optimizing robust controllers for VTOL aircraft and Aerial Manipulators.
+ - **Unmanned Navigation Systems:** Advancing localization and mapping technologies utilizing 3D Gaussian Splatting and Machine Learning (ML) based Neural Radiance Fields (NeRF) with broad spectrum sensors (Infrared and Ultraviolet).
+ - **Autonomous Systems Modeling and Simulation:** Exploring novel implementations of Simultaneous Localization and Mapping (SLAM) technologies to lower processing requirements, including real-time performance improvements and hybrid techniques integrating sensor fusion.
 
-### Future Goals  
-🚀 Looking ahead, I am excited to expand my expertise in robotics and multi-agent systems to address a variety of pressing global challenges. My goal is to continue working on innovative projects that push the boundaries of autonomous systems, including applications in search-and-rescue operations, sustainable environmental monitoring, and extraterrestrial exploration.  
