@@ -18,3 +18,11 @@ Welcome! I am a junior at Texas A&M University studying Robotics and Controls En
  - **Unmanned Navigation Systems:** Advancing localization and mapping technologies utilizing 3D Gaussian Splatting and Machine Learning (ML) based Neural Radiance Fields (NeRF) with broad spectrum sensors (Infrared and Ultraviolet).
  - **Autonomous Systems Modeling and Simulation:** Exploring novel implementations of Simultaneous Localization and Mapping (SLAM) technologies to lower processing requirements, including real-time performance improvements and hybrid techniques integrating sensor fusion.
 
+## Workspaces
+
+| **Lab/Office** | **Location** | **Role** | **Focus** |
+|----------------|--------------|----------|-----------|
+| **T.U.R.T.L.E Robotics Lab** | HEB 023 (Haynes Engineering Building) | DRON Project Lead | UAV Swarm Project and mentoring other aspiring robotics students |
+| **American Society of Mechanical Engineers Office** | JCAIN 217 | Executive |  |
+
+---
