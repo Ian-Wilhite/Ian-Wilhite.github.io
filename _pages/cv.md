@@ -18,9 +18,9 @@ Education
   ***Relevant Coursework:*** Object Oriented Program Design, Numerical Methods, Solid Mechanics, Mechanical Design, Fundamentals of Electric Circuit Analysis, Linear Algebra
 
 * **Certificates:** 
-   * [Certified SolidWorks Associate (CSWA)](https://www.linkedin.com/in/ian-wilhite/details/certifications/1731692661513/single-media-viewer/)
-   * [UAV Pilot – Recreational](www.linkedin.com/in/ian-wilhite/details/certifications/1713974513765/single-media-viewer/)
-   * [FCC Ham Radio Operator (General)](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3703657)
+  * [Certified SolidWorks Associate (CSWA)](https://www.linkedin.com/in/ian-wilhite/details/certifications/1731692661513/single-media-viewer/)
+  * [UAV Pilot – Recreational](www.linkedin.com/in/ian-wilhite/details/certifications/1713974513765/single-media-viewer/)
+  * [FCC Ham Radio Operator (General)](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3703657)
 
 Work Experience
 ======
@@ -98,9 +98,8 @@ Other Work Experience
   *Trail Crew Foreman - Conservation Dept.* (May 2024 – Aug. 2024)  
   * Organized 2000+ man-hours of labor while maintaining work site safety to meet project checkpoints.  
   * Planned 28 days of trek itineraries and commissary orders to execute program elements with limited resources.  
-<!-- 
-* **Mathnasium Learning Center - Bedford, TX**  
+
+<!-- * **Mathnasium Learning Center - Bedford, TX**  
   *Mathematics Tutor* (Dec. 2022 – May 2023)  
   * Engaged in technical communication of upper-level mathematics to wide audiences including those with language barriers.
   <!-- * Coordinated center support with colleagues to prioritize customer service and satisfaction to maintain the 4.8 star customer satisfaction rating on Google Maps -->
- -->
