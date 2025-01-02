@@ -13,7 +13,7 @@ Education
 ======
 * **Texas A&M University, College Station, Texas**  
   BSc in Robotics and Controls Engineering (May 2026)  
-  <!-- *GPA:* 3.24/4.00   -->
+  <!--- *GPA:* 3.24/4.00   -->
   ***Minors:*** Control of Mechanical Systems, Computer Science
   ***Relevant Coursework:*** Object Oriented Program Design, Numerical Methods, Solid Mechanics, Mechanical Design, Fundamentals of Electric Circuit Analysis, Linear Algebra
 
@@ -53,7 +53,7 @@ Activities
   *Executive Secretary* (May 2024 – Present)  
   * Leading 7 officers to manage professional mixers, promotions, outreach, and special events.  
   * Migrated communications from Discord to Slack, achieving a 181% increase in membership (from 196 to 550).  
-<!-- 
+<!--- 
 * **Order of the Arrow - Section G3**  
   *Performance Measurement Program Coordinator (PMP Coordinator)* (April 2023 – Present)  
   * Designing and utilizing tools to track lodge growth and effectiveness.  
@@ -99,7 +99,7 @@ Other Work Experience
   * Organized 2000+ man-hours of labor while maintaining work site safety to meet project checkpoints.  
   * Planned 28 days of trek itineraries and commissary orders to execute program elements with limited resources.  
 
-<!-- * **Mathnasium Learning Center - Bedford, TX**  
+<!--- * **Mathnasium Learning Center - Bedford, TX**  
   *Mathematics Tutor* (Dec. 2022 – May 2023)  
   * Engaged in technical communication of upper-level mathematics to wide audiences including those with language barriers.
   <!-- * Coordinated center support with colleagues to prioritize customer service and satisfaction to maintain the 4.8 star customer satisfaction rating on Google Maps -->
