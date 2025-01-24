@@ -14,8 +14,8 @@ Education
 * **Texas A&M University, College Station, Texas**  
   BSc in Robotics and Controls Engineering (May 2026)  
   <!--- *GPA:* 3.24/4.00   -->
-  ***Minors:*** Control of Mechanical Systems, Computer Science <!-- *GPA:* 3.24/4.00   -->
-  **Relevant Coursework:*** Object Oriented Program Design, Numerical Methods, Solid Mechanics, Mechanical Design, Fundamentals of Electric Circuit Analysis, Linear Algebra
+  ***Minors:*** Control of Mechanical Systems, Computer Science
+  ***Relevant Coursework:*** Numerical Methods (Optimization), Object Oriented Program Design, Aerial Autonomy, Mechanical Measurements, Dynamics and Vibrations, Solid Mechanics, and Linear Algebra
 
 * **Certificates:** 
   * [Certified SolidWorks Associate (CSWA)](https://www.linkedin.com/in/ian-wilhite/details/certifications/1731692661513/single-media-viewer/)
@@ -58,7 +58,7 @@ Activities
 * **Order of the Arrow - Section G3**  
   *Performance Measurement Program Coordinator (PMP Coordinator)* (April 2023 – Present)  
   * Designing and utilizing tools to track lodge growth and effectiveness.  
-  * Mentored Lodge Chiefs to oversee a  
+  * Mentoring Lodge Chiefs to oversee over 4,500 members
   
 * **Order of the Arrow - Netopalis Lodge**  
   *Lodge Chief* (Aug. 2022 – Aug. 2023)  
