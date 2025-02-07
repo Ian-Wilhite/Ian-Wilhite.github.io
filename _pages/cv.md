@@ -13,7 +13,6 @@ Education
 ======
 * **Texas A&M University, College Station, Texas**  
   BSc in Robotics and Controls Engineering (May 2026)  
-  <!--- *GPA:* 3.24/4.00   -->
   ***Minors:*** Control of Mechanical Systems, Computer Science
   ***Relevant Coursework:*** Numerical Methods (Optimization), Object Oriented Program Design, Aerial Autonomy, Mechanical Measurements, Dynamics and Vibrations, Solid Mechanics, and Linear Algebra
 
