@@ -1,7 +1,7 @@
 ---
 title: "The Importance of PMP"
 collection: talks
-type: "Techincal Seminar"
+type: "Technical Seminar"
 venue: "Lakeview Lodge Conference Center"
 date: January 18th, 2025
 location: "Bridgeport, TX"
