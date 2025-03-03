@@ -8,4 +8,4 @@ location: "Bridgeport, TX"
 ---
 Providing a brief introduction to PMP, 5 and 6 year trends, exercise in application of scale, introduction to data-driven decision making, and foundations for lodge leaders to contextualize common reports.
 
-[View the slides.](files/importance_of_PMP.pdf)
+[View the slides.](../files/importance_of_PMP.pdf)
