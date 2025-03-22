@@ -27,7 +27,7 @@ author:
   # bio              : "Junior at Texas A&M passionate about robotics and swarm intelligence."
   location         : "College Station, TX"
   employer         : "Texas A&M University"
-  uri              : ian-wilhite.github.io
+  # uri              : ian-wilhite.github.io
   email            : "ian.wilhite0@gmail.com" 
   # resume           : [Resume](https://ian-wilhite.github.io/files/Resume.pdf)
 
