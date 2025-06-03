@@ -4,13 +4,18 @@ excerpt: "Modeling the path of a bungee jumper with respect to the enviornmental
 collection: portfolio
 ---
 
-**Date:** Feb. 2025
+**Date:** Mar. 2025
 
-**Summary:** For a Numerical Methods course (MEEN 357), we were tasked with designing a rover to quickly navigate a mars terrain by optimizing 9 parameters with 5 constraints and a time to optimize. In a timed race on randomized terrain, out of 28 teams, we placed 4th. This was an incredible problem to dive into and I'm proud of the product we delivered.
+**Summary:** For dynamics and vibrations, we simulated a bungee jumper with various stiffnesses of cords, and accounted for air resistance. We determined the optimal cord stiffness for various applications and the maximum displacement that each cord generates from the fall.
 
-**Team Members:** David Guess and Jacob Hargreaves
-**GitHub Repo:** [Link to Repository](https://github.com/Ian-Wilhite/meenp4)  
+**Team Members:** 
 
-<!-- **Supporting Images:**   -->
-<!-- <img src="/images/datathon_2024.png" alt="Datathon 2024" style="max-width: 100%;"> -->
+ - [Ian Wilhite](https://www.linkedin.com/in/ian-wilhite/)
+ - [Tori Abell](https://www.linkedin.com/in/victoriaabell2026/)
+ - [Eddy Silva](https://www.linkedin.com/in/esilva04/)
+ - [Alois Campbell](https://www.linkedin.com/in/alois-campbell/)
+
+**GitHub Repo:** [Link to Repository](https://github.com/Ian-Wilhite/363-A1)  
+
+
 

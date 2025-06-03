@@ -9,96 +9,138 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* **Texas A&M University, College Station, Texas**  
-  BSc in Robotics and Controls Engineering (May 2026)  
-  ***Minors:*** Control of Mechanical Systems, Computer Science
-  ***Relevant Coursework:*** Numerical Methods (Optimization), Object Oriented Program Design, Aerial Autonomy, Mechanical Measurements, Dynamics and Vibrations, Solid Mechanics, and Linear Algebra
+Ian Wilhite  
+Fort Worth, TX | Ian.Wilhite0@gmail.com | P: 817-527-1490  
+[Portfolio](https://Ian-Wilhite.github.io) | [LinkedIn](https://linkedin.com/in/Ian-Wilhite)
 
-* **Certificates:** 
-  * [Certified SolidWorks Associate (CSWA)](https://www.linkedin.com/in/ian-wilhite/details/certifications/1731692661513/single-media-viewer/)
-  * [UAV Pilot – Recreational](www.linkedin.com/in/ian-wilhite/details/certifications/1713974513765/single-media-viewer/)
-  * [FCC Ham Radio Operator (General)](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3703657)
-  * [Matlab Onramps](https://www.linkedin.com/in/ian-wilhite/overlay/1736951774358/single-media-viewer/?profileId=ACoAAEYard4BjOGuHilqz9nVhkA1F2wFFonbc14)
+---
 
-Work Experience
-======
-* **Human-Empowering Robotics & Controls Lab – College Station, TX**  
-  *Undergraduate Researcher* (Jan. 2024 – May 2024)  
-  * Prototyped ankle joint attachment mechanism for lower body hip exoprosthesis frame to enhance user comfort and cost-effectiveness.  
-  * Researched academic literature to broaden understanding of controls and biomechanics for design improvements.  
+## Education
 
-* **360 Testing Co. – Yonkers, NY**  
-  *Test Engineering Technician* (June 2018 – Dec. 2023)  
-  * Designed, performed, and analyzed niche testing methodologies, validating effectiveness for over a dozen projects.  
-  * Scoped work, conducted product tests, and documented findings for two complete customer projects.  
+**Texas A&M University, College Station, TX**  
+**B.S. in Robotics and Controls Engineering – Interdisciplinary Track**, May 2026  
+Minors: Control of Mechanical Systems, Math  
+**Awards:** Grand Challenges Scholar, Science Influencer  
 
-* **Kent Electronics – Grand Prairie, TX**  
-  *Electrical Technician* (Mar. 2022 – Sept. 2022)  
-  * Soldered 250+ PCB boards with SMA components for military and commercial applications.  
-  * Prototyped and refined an antenna clip in Fusion 360 for "fox hunt"-style source-finding competitions.  
+**Relevant Coursework:**  
+Autonomous Aerospace Systems, Dynamics and Vibrations, Numerical Methods, Foundations of Aerial Autonomy,  
+Complex Analysis, Object Oriented Program Design, Mechanical Measurements, Solid Mechanics, Linear Algebra
 
-Activities
-======
-* **Texas A&M University Robotics Team & Leadership Experience (TURTLE)**  
-  *Project Lead & Founder - Disaster Response Observation Network (DRON)* (Jan. 2024 – Present)  
-  * Leading a team of 16 engineers to implement a UAV swarm aiding emergency responders in structural fire analysis.  
-  * Developing RF Controls for UAV scalability and coordinated swarm behavior.  
+**Certificates:**  
+- [Certified SolidWorks Associate (CSWA)](https://www.linkedin.com/in/ian-wilhite/details/certifications/1731692661513/single-media-viewer/)  
+- [UAV Pilot – Recreational](https://www.linkedin.com/in/ian-wilhite/details/certifications/1713974513765/single-media-viewer/)  
+- [FCC Ham Radio Operator (General)](https://wireless2.fcc.gov/UlsApp/UlsSearch/license.jsp?licKey=3703657)  
+- [MATLAB Onramps](https://www.linkedin.com/in/ian-wilhite/overlay/1736951774358/single-media-viewer/?profileId=ACoAAEYard4BjOGuHilqz9nVhkA1F2wFFonbc14)
 
-  *Lab Foreman* (May 2024 – Present)  
-  * Expanding lab facilities and overseeing training, upkeep, and maintenance of shop machinery worth $10k+.  
+---
 
-* **American Society of Mechanical Engineers (ASME)**  
-  *Executive Secretary* (May 2024 – Present)  
-  * Leading 7 officers to manage professional mixers, promotions, outreach, and special events.  
-  * Migrated communications from Discord to Slack, achieving a 181% increase in membership (from 196 to 550).  
+## Skills
 
-* **Order of the Arrow - Section G3**  
-  *Performance Measurement Program Coordinator (PMP Coordinator)* (April 2023 – Present)  
-  * Designing and utilizing tools to track lodge growth and effectiveness.  
-  * Mentoring Lodge Chiefs to oversee over 4,500 members
-  
-* **Order of the Arrow - Netopalis Lodge**  
-  *Lodge Chief* (Aug. 2022 – Aug. 2023)  
-  * Served as the executive of a volunteer organization of 1000+ members to execute a $50,000+ annual program
-  * Presented to audiences of 300+ members at events, including in the Texas Capitol
+- **Programming & OS:** C++, Python, Java, MATLAB, R, Bash, LaTeX, Linux  
+- **CAD:** SolidWorks (FEA, Parametric Modeling, Topology Optimization), Fusion 360, Siemmens NX  
+- **Libraries & Tools:** Git & GitHub, ROS, ROS2, OpenCV, Pandas, NumPy, VS Code  
+- **UAV Systems:** MAVLink, PX4, ArduPilot, SLAM, VIO
+- **Controls:** Microcontrollers, PID tuning, PWM, Model Predictive Control (MPC)
 
-* **Longhorn Council - Scouting America**
-  *Executive Board Member* (Aug. 2022 – Aug. 2023)  
-  * Entrusted to vote to manage the endowment, oversee and maintain the $10+ million assets, and expand program elements for the 10,000+ youth members
+---
 
-Skills
-======
-* **Programming & Operating Systems:** C++, Java, MATLAB, Python, R, Bash, LaTeX, Windows, Linux/Unix  
-* **Computer Aided Design (CAD):** SolidWorks (Parametric Modeling, Finite Element Analysis, Topology Optimization), Fusion 360
-* **Libraries and Development Tools:** Git & GitHub, ROS2, OpenCV (Computer Vision), Pandas, NumPy, Visual Studio Code (VS Code)  
-* **UAV Swarm Technologies:** SLAM, VIO, ROS, MAVLink, Pixhawk (PX4), ArduPilot, Optimization Algorithms, Particle Swarm Optimization (PSO)  
-* **Controls:** Microcontrollers, Model Predictive Control (MPC), PWM motor control, PID controller tuning
+## Work Experience
 
-Awards
-======
-* [*Texas A&M Science Influencer:*](https://scienceinfluencers.org) (Dec. 2024) -- United States Department of Agriculture - National Institute of Food and Agriculture (USDA-NIFA) Research and Technical Communications Program. (Program in progress.)
-* [*Grand Challenges Scholar:*](https://engineering.tamu.edu/student-life/gcsp/application-process.html) (May 2024) -- National Academy of Engineering (NAE) Program. Selected for ambition, experience, and compassion, the Grand Challenges Scholars were founded to research new technologies for the betterment of humanity. After selecting a competency, scholars are enabled to apply engineering skills to solve one of the grand challenges of humanity as identified by the NAE through access to research, project skills, and mentorship to grow a new generation of engineers better prepared to solve these challenges by developing multidisciplinary, multicultural, social, and entrepreneurial skills.
-* [*Section Service Award - The Order of the Arrow Section G3:*](https://www.instagram.com/p/C6ARjDBrjZg/) (April 2024) -- The Section Service Award is presented to four members annually from the ~5000 members across north Texas, Arkansas, Oklahoma, and Louisiana. I served as the Performance Measurement Program Coordinator (PMP Coordinator), where spearheaded an entirely new kind of role that combines data analysis and youth mentoring to aide Lodge Leaders in making key decisions and operating programs for their already large organizations. My work began with data scraping and analysis, and brought data in an meaningful format to aide in development of SMART goals to create substantial impact to programs. [(See examples on Github!)](https://github.com/Ian-Wilhite/SOS_PMP_24)
-* [*James E. West Fellow - Scouting America National Foundation:*](https://www.scouting.org/awards/awards-central/james-e-west-fellowship/) (Dec 2023) -- The Netopalis Lodge of the Order of the Arrow sponsors two donations a year, on behalf of Arrowmen that they believe have gone above and beyond in their service to our lodge in an exceptional sense.
-* [*The Vigil Honor - The Order of the Arrow Netopalis Lodge:*](https://oa-bsa.org/program/awards/vigil-honor) (March 2022) -- The Vigil Honor is the highest honor a lodge can bestow upon a member. The Order of the Arrow serves as Scouting's National Society, and as a whole serves to give back to council and develop the leadership of youth members by providing youth with meaningful responsibilities in large projects. Each year, the Lodge selects 2% of its membership that it believes has demonstrated the ideals of the order, and recognizes them for their contributions to scouting.
-* *Eagle Scout - Scouting America:* (Mar. 2021)
+**Army Research Lab, University of Maryland – Adelphi, MD**  
+*Autonomy for Air Unmanned Systems Intern*, June 2025 – Aug. 2025  
 
-Other Work Experience
-======
-* **Texas A&M Department of ResLife - College Station, TX**  
-  *Resident Advisor* (Jan. 2024 – Present)  
-  * Resolving active crises and coordinating community programs for 400+ residents to foster a welcoming atmosphere.  
-  * Demonstrated adaptability and problem-solving skills to address diverse resident needs, ensuring effective conflict resolution.  
+**Human-Empowering Robotics & Controls Lab – College Station, TX**  
+*Undergraduate Researcher*, Jan. 2024 – May 2024  
+- Prototyped ankle joint attachment mechanism for lower body hip exoskeleton frame  
+- Investigated literature on biomechanics and control for system-level integration
 
-* **Philmont Scout Ranch - Cimmaron, NM**  
-  *Trail Crew Foreman - Conservation Dept.* (May 2024 – Aug. 2024)  
-  * Organized 2000+ man-hours of labor while maintaining work site safety to meet project checkpoints.  
-  * Organized 2000+ man-hours of labor while maintaining work site safety to meet project checkpoints.  
-  * Planned 28 days of trek itineraries and commissary orders to execute program elements with limited resources.  
+**Texas A&M Department of ResLife – College Station, TX**  
+*Resident Advisor*, Jan. 2024 – May 2025  
+- Managed crises and coordinated community programs for 400+ students  
+- Practiced conflict resolution and community-building leadership
 
-* **Mathnasium Learning Center - Bedford, TX**  
-  *Mathematics Tutor* (Dec. 2022 – May 2023)  
-  * Engaged in technical communication of upper-level mathematics to wide audiences including those with language barriers.
-  * Coordinated center support with colleagues to prioritize customer service and satisfaction to maintain the 4.8 star customer satisfaction rating on Google Maps
+**360 Testing Co. – Yonkers, NY**  
+*Test Engineering Technician*, June 2018 – Dec. 2023  
+- Designed and executed testing procedures for over a dozen product scopes  
+- Delivered complete client reports on product validation
+
+**Philmont Scout Ranch – Cimmaron, NM**  
+*Trail Crew Foreman*, May 2024 – Aug. 2024  
+- Managed over 2000 man-hours of labor and ensured trail worksite safety  
+- Planned 28-day treks and resupply logistics in remote terrain
+
+**Kent Electronics – Grand Prairie, TX**  
+*Electrical Technician*, Mar. 2022 – Sept. 2022  
+- Soldered 250+ PCBs with SMA components for military and commercial systems  
+- Modeled and prototyped antenna clip in Fusion 360 for RF source-finding applications
+
+**Mathnasium – Bedford, TX**  
+*Mathematics Tutor*, Dec. 2022 – May 2023  
+- Taught advanced math concepts across a diverse student base  
+- Supported service quality contributing to 4.8-star center rating
+
+---
+
+## Activities
+
+**NASA L’Space Mission Concept Academy**  
+*Mission Engineer*, May 2025 – Aug. 2025  
+- Completing a Mars rover design using NASA systems engineering, risk analysis, and trade studies
+- Collaborating in 22-member team applying mission architecture, requirement flowdown, and lifecycle planning 
+
+**TAMU Robotics Team (TURTLE)**  
+*Founder & Project Lead – DRON*, Jan. 2024 – Present  
+- Leading a 16-member team deploying UAV swarms for structural fire response  
+- Designing autonomy for scalable multi-agent UAV coordination
+
+*Internal Vice President*, May 2025 – Present  
+- Managing 500+ student organization applications, $50k+ budget, and 20 projects
+
+*Lab Foreman*, May 2024 – May 2025  
+- Managed $10k+ worth of machinery and expanded fabrication lab infrastructure
+
+**American Society of Mechanical Engineers (ASME)**  
+*President*, May 2025 – Present  
+- Leading our 37 officers to execute our $50k+ annual budget for our 700+ members 
+
+*Executive Secretary*, May 2024 – May 2025  
+- Directed team of 7 officers, executed outreach, socials, mixers, and events  
+- Migrated team platform from Discord to Slack; increased membership 243%
+
+**Order of the Arrow – Section G3**  
+*Performance Measurement Program Coordinator*, Apr. 2023 – Present  
+- Designed tools to track membership growth across 4,500+ members  
+- Mentored lodge chiefs to translate data into effective program outcomes
+
+**Order of the Arrow – Netopalis Lodge**  
+*Lodge Chief*, Aug. 2022 – Aug. 2023  
+- Led 1000+ members in $50k annual program, presenting to audiences of 300+  
+- Served on executive board of 10,000+ member youth organization
+
+---
+
+## Publications
+
+- I. Wilhite*, A. Briggs*, J. Fuerst*, E. Hannsz*, et al.  
+  “Disaster Response Observation Network (DRON),” TURTLE Robotics, Apr. 17, 2025 [Showcase Poster]  
+
+- E. Burciaga-Ichikawa, K. Jaroszewski, J. Sopala, I. Wilhite.  
+  “Development of a Rocket Landing Simulation Using a Gimbal and Landing Gear,” TAMU S.E.C. Ignite Challenge, Nov. 23, 2024 [Technical Presentation]  
+
+- I. Wilhite*, A. Briggs*, J. Fuerst*, E. Hannsz*, et al.  
+  “Disaster Response Observation Network (DRON),” TURTLE Robotics, Nov. 22, 2024 [Showcase Poster]  
+
+- A. Ayala*, J. Adamson, A. Alvarado, A. Briggs, F. Chim, C. Creer, M. Ferguson, J. Fuerst,  
+  E. Hannsz, A. Peralta, B. Russell, I. Wilhite, L. Ybarra, A. Velez.  
+  “Disaster Response Observation Network (DRON),” TURTLE Robotics, Apr. 26, 2024 [Showcase Poster]
+
+---
+
+## Awards
+
+- **Texas A&M Science Influencer** – USDA-NIFA, 2025  
+- **Grand Challenges Scholar** – National Academy of Engineering, 2024  
+- **Section Service Award** – Order of the Arrow, Section G3, 2024  
+- **James E. West Fellow** – Scouting America National Foundation, 2023  
+- **The Vigil Honor** – Order of the Arrow Netopalis Lodge, 2022  
+- **Eagle Scout** – Scouting America, 2021

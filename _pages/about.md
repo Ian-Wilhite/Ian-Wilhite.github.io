@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a junior at Texas A&M University studying Robotics and Controls Engineering with a passion for multi-agent robotic systems. My passion lies in swarm robotics, particularly in the fields of collaborative autonomy and multi-agent systems. I have worked heavily in aerial autonomy, with an emphasis on spatial awareness and disaster response. With expertise in C++, SolidWorks, and machine learning, I strive to bring autonomous systems closer to real-world applications by developing reliable, scalable solutions that enable robots to operate autonomously in complex, dynamic environments. Through my experiences in both research and hands-on projects, I aim to push the boundaries of aerial autonomy, contributing to next advancements of the 21st century.
+Welcome! I am a student at Texas A&M University studying Robotics and Controls Engineering with a passion for autonomous systems. I have a background working in mapping through the DRON project, and am interested in working on collaborative autonomy tasks and multi-agent systems. With expertise in C++, SolidWorks, and machine learning, I strive to bring autonomous systems closer to real-world applications by developing reliable, scalable solutions that enable robots to operate autonomously in complex, dynamic environments. Through my experiences in both research and hands-on projects, I aim to push the boundaries of aerial autonomy, contributing to next advancements of the 21st century.
  
 ### Research Interests  
 <!-- multi agent systems, swarm robotics, drone navigation, aerial autonomy, and collaborative development -->
