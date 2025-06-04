@@ -119,16 +119,16 @@ Complex Analysis, Object Oriented Program Design, Mechanical Measurements, Solid
 
 ## Publications
 
-- I. Wilhite*, A. Briggs*, J. Fuerst*, E. Hannsz*, et al.  
+- I. Wilhite\*, A. Briggs\*, J. Fuerst\*, E. Hannsz\*, et al.  
   “Disaster Response Observation Network (DRON),” TURTLE Robotics, Apr. 17, 2025 [Showcase Poster]  
 
 - E. Burciaga-Ichikawa, K. Jaroszewski, J. Sopala, I. Wilhite.  
   “Development of a Rocket Landing Simulation Using a Gimbal and Landing Gear,” TAMU S.E.C. Ignite Challenge, Nov. 23, 2024 [Technical Presentation]  
 
-- I. Wilhite*, A. Briggs*, J. Fuerst*, E. Hannsz*, et al.  
+- I. Wilhite\*, A. Briggs\*, J. Fuerst\*, E. Hannsz\*, et al.  
   “Disaster Response Observation Network (DRON),” TURTLE Robotics, Nov. 22, 2024 [Showcase Poster]  
 
-- A. Ayala*, J. Adamson, A. Alvarado, A. Briggs, F. Chim, C. Creer, M. Ferguson, J. Fuerst,  
+- A. Ayala\*, J. Adamson, A. Alvarado, A. Briggs, F. Chim, C. Creer, M. Ferguson, J. Fuerst,  
   E. Hannsz, A. Peralta, B. Russell, I. Wilhite, L. Ybarra, A. Velez.  
   “Disaster Response Observation Network (DRON),” TURTLE Robotics, Apr. 26, 2024 [Showcase Poster]
 
