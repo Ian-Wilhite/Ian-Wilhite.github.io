@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Ian Wilhite  
-Fort Worth, TX | Ian.Wilhite0@gmail.com | P: 817-527-1490  
-[Portfolio](https://Ian-Wilhite.github.io) | [LinkedIn](https://linkedin.com/in/Ian-Wilhite)
+# Ian Wilhite  
 
 ---
 
@@ -138,7 +136,7 @@ Complex Analysis, Object Oriented Program Design, Mechanical Measurements, Solid
 
 ## Awards
 
-- **Texas A&M Science Influencer** – USDA-NIFA, 2025  
+- **Texas A&M Science Influencer** – USDA, 2025  
 - **Grand Challenges Scholar** – National Academy of Engineering, 2024  
 - **Section Service Award** – Order of the Arrow, Section G3, 2024  
 - **James E. West Fellow** – Scouting America National Foundation, 2023  
